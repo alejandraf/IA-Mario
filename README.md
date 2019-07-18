@@ -1,5 +1,5 @@
 # IA-Mario
-Codigos para emular el juego de mario sacados de :
+Codigos para emular el juego de mario sacados de :\n
 https://github.com/ppaquette/gym-super-mario
 https://github.com/Kautenja/gym-super-mario-bros
 
